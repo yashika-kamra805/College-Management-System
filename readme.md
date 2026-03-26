@@ -22,4 +22,3 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application to manage conta
 
 ---
 
-## Folder Structure
